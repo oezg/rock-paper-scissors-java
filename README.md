@@ -3,6 +3,8 @@
 ## About
 This is a Rock-Paper-Scissors-Lizard-Spock game, a more advanced version of Rock-Paper-Scissors.
 
+![hands](hands.png)
+
 ## Learning outcomes
 - A playable Rock-Paper-Scissors game, with a Player vs. Computer mode. 
 - Practice using 
